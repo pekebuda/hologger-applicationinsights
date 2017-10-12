@@ -1,4 +1,4 @@
-# hologger
+# hologger-applicationinsights
 Azure ApplicationInsights Streamer for Hologger
 
 
