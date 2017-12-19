@@ -1,4 +1,5 @@
 # hologger-applicationinsights
+
 Azure ApplicationInsights Streamer for Hologger
 
 
@@ -14,14 +15,17 @@ $ npm install hologger-applicationinsights
 ## Environmental variables
 
 ```bash
-RACK_ENV=
-HOSTNAME=
-PORT=
+APPINSIGHTS_INSTRUMENTATIONKEY=
+APPINSIGHTS_LOG_LEVEL=
+```
+
+Ademas, este modulo se ve condicionado indirecto por la fijacion de las siguientes 
+variables de entorno que configuran [Hologger]():  
+
+```bash
 HOLOGGER_RIFS=
 HOLOGGER_RBFS=
 HOLOGGER_LOG_LEVEL=
-APPINSIGHTS_INSTRUMENTATIONKEY=
-APPINSIGHTS_LOG_LEVEL=
 ```
 
 
