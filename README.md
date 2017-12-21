@@ -21,8 +21,8 @@ APPINSIGHTS_INSTRUMENTATIONKEY=
 APPINSIGHTS_LOG_LEVEL=
 ```
 
-Ademas, este modulo se ve condicionado indirecto por la fijacion de las siguientes 
-variables de entorno que configuran [Hologger]():  
+Ademas, este modulo se ve condicionado indirectamente por la fijacion de las 
+siguientes variables de entorno que configuran [Hologger]():  
 
 ```bash
 HOLOGGER_RIFS=
