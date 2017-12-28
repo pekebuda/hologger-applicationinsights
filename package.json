@@ -1,6 +1,6 @@
 {
   "name": "hologger-applicationinsights",
-  "version": "1.0.0-rc1",
+  "version": "1.0.0",
   "description": "Azure ApplicationInsights Streamer for Hologger",
   "main": "index.js",
   "author": "Fernando Diaz <peke_buda@hotmail.com>",
