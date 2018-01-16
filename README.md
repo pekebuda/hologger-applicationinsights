@@ -17,7 +17,6 @@ $ npm install hologger-applicationinsights
 ## Environmental variables
 
 ```bash
-APPINSIGHTS_INSTRUMENTATIONKEY=
 HOLOGGER_APPLICATIONINSIGHTS_LOG_LEVEL=
 ```
 
