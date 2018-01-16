@@ -18,7 +18,7 @@ $ npm install hologger-applicationinsights
 
 ```bash
 APPINSIGHTS_INSTRUMENTATIONKEY=
-APPINSIGHTS_LOG_LEVEL=
+HOLOGGER_APPLICATIONINSIGHTS_LOG_LEVEL=
 ```
 
 Ademas, este modulo se ve condicionado indirectamente por la fijacion de las 
